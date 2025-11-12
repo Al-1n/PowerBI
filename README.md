@@ -1,6 +1,7 @@
 # 📊 Power BI – Financial Performance Dashboards
 
-This repository contains a collection of **Power BI project files** designed to visualize and analyze **financial performance** across various companies and industries.  
+This repository contains a collection of **Power BI project files** designed to visualize and analyze **financial performance** across various companies and industries. 
+ 
 Each dashboard provides an interactive perspective on profitability, growth, efficiency, solvency, and investment returns.
 
 ---
