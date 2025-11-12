@@ -14,14 +14,14 @@ Each dashboard provides an interactive perspective on profitability, growth, eff
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 - Microsoft Power BI Desktop  
 - DAX and Power Query (M Language)  
 - Excel data sources (integrated where applicable)
 
 ---
 
-## How to Use 
+## 🚀 How to Use 
 1. Clone or download the repository  
 2. Open any `.pbix` file in **Power BI Desktop**  
 3. Refresh data sources and explore the dashboards interactively  
